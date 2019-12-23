@@ -23,7 +23,7 @@ mnelson：myproject mnelson$git Pull Origin Master
 mnelson：myproject mnelson$git Pull Origin Master
 远程：对对象进行计数：1，完成。
 远程：总计1(增量0)、重用0(增量0)、包重用0
-解包对象：100%(1/1)，完成。
+解包：100%(1/1)，完成。
 来自https://github.com/cubeton/mynewrepository
  *分支 主管 ->快点，快点。
    b345d9a..5381b7c主机->原点/母版
