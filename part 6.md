@@ -99,7 +99,7 @@ commit5381b7c53212ca92151c743b4ed7dde07d9be3ce
 作者Meghan Nelson <meghan@meghan.net>
 日期：   Fri Sep 11 17:43:22 2015 -0400
  
-    Merge 拉取请求 #2 from cubeton/my-newbranch
+    合并 拉取请求 #2 from cubeton/my-newbranch
     
     为文件夹添加更多文本
  
